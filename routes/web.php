@@ -3,10 +3,6 @@
 use App\Http\Controllers\ContactController;
 use Illuminate\Support\Facades\Route;
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-
 // default route 
 Route::get('/', fn () => redirect()->route('contacts.index'));
 
