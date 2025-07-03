@@ -11,15 +11,16 @@ A Laravel-based web application for managing contact with Import Xml file with C
 - Bulk import contacts using XML
 - Single Contact save using form
 - Editing contact entries
-- Delete product only after user confirmation ✅
+- Delete contact only after user confirmation ✅
 - Data saved to MySql Database
 - Table displays:
   - Sr No
   - Name
   - Phone
 - Table auto-redirect after any action
-- Table Pagination per page 10 record
-- Success/error notification with auto-hide after 2 seconds
+- Table pagination per page 10 record
+
+- success/error notification with auto-hide after 2 seconds
 
 ---
 
